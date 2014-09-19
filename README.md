@@ -14,4 +14,6 @@ Here are the steps performed in the run_analysis.R script which is located here
 - Uses descriptive activity names to name the activities in the data set
 - Appropriately labels the data set with descriptive variable names. 
 - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-- 
+
+Here is the link to the codebook
+https://github.com/nagashunm/Getting-and-Cleaning-Data/blob/master/CodeBook.md
