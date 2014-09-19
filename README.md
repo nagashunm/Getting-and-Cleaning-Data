@@ -7,7 +7,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 and here is the final tidy data set out from the r script.
 #
 Here are the steps performed in the run_analysis.R script which is located here
-#
+https://github.com/nagashunm/Getting-and-Cleaning-Data/blob/master/run_analysis.R
 
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement. 
